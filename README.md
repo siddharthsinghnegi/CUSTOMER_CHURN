@@ -83,7 +83,7 @@ Performed SQL-based analysis to answer key business questions:
 
 ## 📈 Power BI Dashboard
 
-The dashboard provides:
+The dashboard provides:  [View Dashboard (PDF)](https://github.com/siddharthsinghnegi/CUSTOMER_CHURN/blob/main/POWER%20BI.pdf)
 
 * KPI overview (Total Customers, Churn Rate, Avg Charges, Tenure)
 * Churn distribution visualization
